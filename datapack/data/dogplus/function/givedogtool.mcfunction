@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick[minecraft:custom_data={dogplus:dog_tool},minecraft:custom_name="Dog Tool"]

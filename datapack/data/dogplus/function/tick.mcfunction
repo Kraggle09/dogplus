@@ -1,0 +1,2 @@
+execute as @a[scores={UsedCarrotOnStick=1}] if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data={dogplus:dog_tool}] run function dogplus:dogboost
+execute as @a[scores={UsedCarrotOnStick=1}] run scoreboard players set @s UsedCarrotOnStick 0
