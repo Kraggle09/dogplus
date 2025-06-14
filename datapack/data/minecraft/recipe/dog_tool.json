@@ -16,7 +16,8 @@
             "minecraft:item_name": "Dog Tool",
             "minecraft:custom_data": {
                 "dogplus": "dog_tool"
-            }
+            },
+            "minecraft:item_model": "dogplus:dog_tool"
         }
     }
 }
