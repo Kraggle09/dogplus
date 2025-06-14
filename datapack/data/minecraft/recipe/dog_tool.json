@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iRi",
+        "iNi",
+        "iRi"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "R": "minecraft:rotten_flesh",
+        "N": "minecraft:name_tag"
+    },
+    "result": {
+        "id": "carrot_on_a_stick",
+        "components": {
+            "minecraft:item_name": "Dog Tool",
+            "minecraft:custom_data": {
+                "dogplus": "dog_tool"
+            }
+        }
+    }
+}
