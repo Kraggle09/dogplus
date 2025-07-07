@@ -1,4 +1,4 @@
-say RUNNING DOGBOOST2
+say Successfully enhanced nearest wolf!
 attribute @s minecraft:attack_damage base set 8
 attribute @s minecraft:max_health base set 16
 
