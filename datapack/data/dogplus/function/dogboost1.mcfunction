@@ -1,3 +1,3 @@
 say RUNNING DOGBOOST1
-execute at @s run execute as @n[type=wolf,distance=..10] run function dogplus:dogboost2
+execute if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data={dogplus:dog_tool}] at @s as @n[type=wolf,distance=..10] run function dogplus:dogboost2
 scoreboard players set @s UsedCarrotOnStick 0
